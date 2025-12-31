@@ -51,7 +51,7 @@ Passionate self-taught developer building real-world full-stack applications wit
 
 ### 📊 GitHub Stats
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=letpritom&show_icons=true&theme=radical&hide_border=false" alt="Pritom's GitHub Stats"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=letpritom&theme=radical&hide_border=false" alt="GitHub Streak"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=letpritom&layout=compact&theme=radical&hide_border=false" alt="Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api?username=LetPritom&show_icons=true&theme=dark&hide_border=true" alt="Pritom's GitHub Stats"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=LetPritom&theme=dark&hide_border=true" alt="GitHub Streak"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LetPritom&layout=compact&theme=dark&hide_border=true" alt="Top Languages"/>
 </p>
