@@ -1,4 +1,4 @@
-![Pritom Roy - Junior MERN Stack Developer](banner.png)
+![Pritom Roy - Junior MERN Stack Developer](banner.jpg)
 
 <h1 align="center">Hi 👋, I'm Pritom Roy</h1>
 <h3 align="center">Junior MERN Stack Developer | BSc Chemistry Student at National University</h3>
