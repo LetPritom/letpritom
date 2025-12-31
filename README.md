@@ -49,24 +49,25 @@ Passionate self-taught developer building real-world full-stack applications wit
 ### 📊 GitHub Stats
 <p align="center">
 
-<!-- Main stats -->
+<!-- Main GitHub Stats -->
 <img
   src="https://github-readme-stats.vercel.app/api?username=letpritom&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=21600"
   alt="Pritom's GitHub Stats"
 />
 
-<!-- Streak stats (use maintained domain) -->
+<!-- Streak Stats (Updated domain) -->
 <img
-  src="https://streak-stats.demolab.com?user=LetPritom&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&hide_longest_streak=true"
+  src="https://streak-stats.demolab.com?user=LetPritom&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D"
   alt="GitHub Streak"
 />
 
-<!-- Top languages -->
+<!-- Top Languages -->
 <img
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=letpritom&layout=compact&theme=dark&hide_border=true&cache_seconds=21600"
   alt="Top Languages"
 />
 
 </p>
+
 
 
