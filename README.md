@@ -12,7 +12,9 @@ Passionate self-taught developer building real-world full-stack applications wit
 - 👨‍💻 All projects available at [github.com/letpritom](https://github.com/letpritom)
 - 📫 Reach me at **pritom.royjess@gmail.com**
 
-### Tech Stack
+---
+
+### 🛠 Tech Stack
 
 **Frontend**  
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/> 
@@ -33,16 +35,23 @@ Passionate self-taught developer building real-world full-stack applications wit
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/> 
 <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
 
-### Connect With Me
+---
+
+### 🌐 Connect With Me
 <p align="left">
-<a href="https://linkedin.com/in/pritom-roy-your-linkedin-username" target="blank">
+<a href="https://linkedin.com/in/pritom-roy-your-linkedin-username" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://github.com/letpritom" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 </p>
 
-### GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=letpritom&show_icons=true&theme=dark&hide_border=true" alt="Pritom's GitHub Stats"/>
+---
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=letpritom&theme=dark&hide_border=true" alt="GitHub Streak"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=letpritom&layout=compact&theme=dark&hide_border=true" alt="Top Languages"/>
+### 📊 GitHub Stats
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=letpritom&show_icons=true&theme=radical&hide_border=false" alt="Pritom's GitHub Stats"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=letpritom&theme=radical&hide_border=false" alt="GitHub Streak"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=letpritom&layout=compact&theme=radical&hide_border=false" alt="Top Languages"/>
+</p>
