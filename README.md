@@ -37,7 +37,7 @@ Passionate self-taught developer building real-world full-stack applications wit
 ---
 ### 🌐 Connect With Me
 <p align="left">
-<a href="https://www.linkedin.com/in/your-actual-linkedin-username" target="_blank">
+<a href="https://www.linkedin.com/in/pritom-roy-jess/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="https://github.com/LetPritom" target="_blank">
